@@ -1,5 +1,5 @@
 ### NodeJS
-``` NodeJS
+```javascript 
 const pako = require('pako')
 
 const WebSocket = require('ws')
